@@ -28,7 +28,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlaMedeiros_icons=true&theme=synthwave)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Carla-medeiros/Carla-Medice_icons=true&theme=synthwave)
 
 <!-- Portfolio -->
 ## Portfolio:
