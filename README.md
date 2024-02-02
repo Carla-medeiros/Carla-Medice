@@ -28,7 +28,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Carla-medeiros/Carla-Medice_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlamedeiros)](https://github.com/carlamedeiros/github-readme-stats)
+
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -53,6 +54,7 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
   </div>
   
   <!-- Skills: Libraries -->
