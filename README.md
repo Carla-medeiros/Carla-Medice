@@ -28,7 +28,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 <!-- GithubStats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlamedeiros)](https://github.com/carlamedeiros/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <!-- Portfolio -->
