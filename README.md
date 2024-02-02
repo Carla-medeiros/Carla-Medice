@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Carla! programming student and passionate about technology from Brazil.
+  Hi 👋, I'm Carla! programming student and passionate about technology.
 
   - 🌱 I’m currently studying Systems analysis and development at UniRios.
 
